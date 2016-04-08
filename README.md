@@ -1,26 +1,28 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# Login Mikrotik Hotspot SMK TI Kawunganten 
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+dibuat dengan [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
-## Getting Started
+## Memulai
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Untuk menggunakan template ini, ikuti langkah berikut:
+* Salin seluruh repositori ini ke dalam routerboard melalui ftp
+* Silahkan fork repository ini sesuka hati Anda
 
-## Bugs and Issues
+## Screenshot
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+![Tangkapan Layar](img/screenshot.jpg)
 
-## Creator
+## Dibuat oleh
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Template login Hostpot ini dibuat dan dikelola oleh **Samsul Ma'arif**.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://twitter.com/samsulmaarif_
+* https://github.com/samsulmaarif
+* https://fb.com/samsul.web.id
+* https://www.instagram.com/samsul.web.id
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Dibuat berdasarkan framework [Bootstrap](http://getbootstrap.com/) yang dibuat oleh [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+## Copyleft and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+Copyleft 2016 Samsul Ma'arif. Dirilis dengan lisensi MIT.
