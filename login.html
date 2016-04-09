@@ -82,14 +82,12 @@
                         <h1>Login Hotspot</h1>
                         <h3>SMK Tarbiyatul Islam Kawunganten</h3>
                         <hr class="intro-divider">
-                        <form class="form-signin" role="form" action="$(link-login-only)" method="post">
-							<div class="form-group">
+                        <form id="loginForm" class="form-signin" role="form" action="$(link-login-only)" method="post">
 								<input type="hidden" name="dst" value="$(link-orig)"/>
                                 <input type="hidden" name="popup" value="true"/>
-								<input type="text" name="username" class="form-control" placeholder="Nama pengguna" required autofocus><br>
-								<input type="password" name="password" class="form-control" placeholder="Sandi" required>
+								<input type="text" name="username" class="form-control input-lg" placeholder="Nama pengguna" required autofocus>
+								<input type="password" name="password" class="form-control input-lg" placeholder="Sandi" required>
 								<button class="btn btn-lg btn-primary btn-block" type="submit">Masuk</button>
-							</div>
 					  </form>
 					<div class="row pesan-login">
 						$(if error)
@@ -118,6 +116,29 @@
     <!-- Page Content -->
 
 	<a  name="info"></a>
+    <div class="content-section-a">
+
+        <div class="container">
+            <div class="row">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading" style="text-align:center;">TATA TERTIB MENGGUNAKAN FASILITAS HOTSPOT SMKTIKA</h2>
+                    <ol class="lead">
+                        <li> HOTSPOT SMKTIKA adalah sebuah layanan koneksi internet wireless yang dapat diakses oleh seluruh warga sekolah menggunakan akun (Username dan Password) tertentu yang diberikan oleh Admin, untuk kepentingan pembelajaran selama di sekolah.
+                        </li> 
+                        <li> Setiap Pengguna hanya akan diberikan 1 hak akses oleh admin secara rahasia, dan pengguna akun, bertanggungjawab akan kerahasiaan kode akses tersebut agar tidak digunakan oleh pengguna lain.
+                        </li>
+                        <li> Gunakan Layanan akses internet HOTSPOT SMKTIKA ini, dengan sebaik-baiknya untuk menunjang kegiatan belajar terkait kebutuhan informasi melalui internet.
+                        </li>
+                        <li> Pengguna dilarang keras menyalahgunakan hak akses untuk hal-hal yang melanggar hukum (pornografi, situs negatif, pembajakan atau hal lain yang melanggar aturan sekolah maupun hukum).
+                        </li>
+                        <li> Admin berhak mencabut/menonaktifkan hak akses jika terbukti melanggar aturan yang telah ditentukan diatas.
+                        </li>
+                    </ol>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
     <div class="content-section-a">
 
         <div class="container">
@@ -207,6 +228,14 @@
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="status.html">Status</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a target="_blank" href="http://www.smktikwt.sch.id">Website</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a target="_blank" href="https://github.com/smktika">Repository</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>

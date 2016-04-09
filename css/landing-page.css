@@ -46,6 +46,7 @@ h6 {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
   padding: 10px;
+  margin-bottom: 10px;
   font-size: 16px;
 }
 .form-signin .form-control:focus {
@@ -220,4 +221,8 @@ p.copyright {
 	transform: scaleX(-1); 
 	filter: FlipH; 
 	-ms-filter: “FlipH”; 
+}
+
+.center {
+	text-align: center;
 }
